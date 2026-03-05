@@ -1,0 +1,17 @@
+cwru
+mitre
+pesu2
+oc
+ccsf
+era
+iitm
+dsu
+byu
+ucsc1
+epcc
+tufts
+utd
+duth
+cmu
+usf
+uscga1
